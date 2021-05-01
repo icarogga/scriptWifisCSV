@@ -22,7 +22,7 @@
    
 <p align="center">
   Software desenvolvido com python com o intuito de pegar todos os dados que o comando do terminal Linux "sudo iwlist scan |grep -e ESSID -e Quality" retorna. Este script irá
-  pegar estes dados e montar uma tabela com os ESSID, as qualidades das respectivas redes e a coluna "class" que terá o valor da variável <h5>className</h5>.
+  pegar estes dados e montar uma tabela com os ESSID, as qualidades das respectivas redes e a coluna "class" que terá o valor da variável <strong>className</strong>.
   
   A tabelá sera distribuída da seguinte forma:
   
